@@ -1,0 +1,94 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#capa {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/1.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#intro {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/2.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#missao {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/3.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#problema {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/4.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#solucao {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/5.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#plataforma {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/6.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#mercado {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/7.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+#parcerias {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/8.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+#impacto-ambiental {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(/img/9.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
