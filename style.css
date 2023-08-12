@@ -1,15 +1,10 @@
-main {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
+/* Theme Name: Startup */
 #capa {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/1.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -17,9 +12,9 @@ main {
 #intro {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/2.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -27,9 +22,9 @@ main {
 #missao {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/3.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -37,9 +32,9 @@ main {
 #problema {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/4.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -47,9 +42,9 @@ main {
 #solucao {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/5.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -57,9 +52,9 @@ main {
 #plataforma {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/6.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -67,9 +62,9 @@ main {
 #mercado {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/7.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
@@ -77,19 +72,61 @@ main {
 #parcerias {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/8.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
 #impacto-ambiental {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #FAFAFA;
     background-image: url(/img/9.png);
-    background-position: center;
+    background-position: center top 56px;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
 
+#equipe {
+    width: 100vw;
+    height: 100vh;
+    background-color: #FAFAFA;
+    background-image: url(/img/10.png);
+    background-position: center top 56px;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 700px) { 
+    #capa {
+        background-image: url(/img/mobile/1.png);
+    }
+    #intro {
+        background-image: url(/img/mobile/2.png);
+    }
+    #missao {
+        background-image: url(/img/mobile/3.png);
+    }
+    #problema {
+        background-image: url(/img/mobile/4.png);
+    }
+    #solucao {
+        background-image: url(/img/mobile/5.png);
+    }
+    #plataforma {
+        background-image: url(/img/mobile/6.png);
+    }
+    #mercado {
+        background-image: url(/img/mobile/7.png);
+    }
+    #parcerias {
+        background-image: url(/img/mobile/8.png);
+    }
+    #impacto-ambiental {
+        background-image: url(/img/mobile/9.png);
+    }
+    #equipe {
+        background-image: url(/img/mobile/10.png);
+    }
+ }
